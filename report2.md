@@ -11,15 +11,15 @@ Server Port | 8080 | 80 | 80
 Document Path | /img/test_image.jpeg | /img/test_image.jpeg | /img/test_image.jpeg
 Document Length, bytes | 2059635 | 2059635 | 2059635
 Concurrency Level | 10 | 10 | 10 
-Time taken for tests, seconds | 0.934 | 0.201 | 0.240
+Time taken for tests, seconds | 0.934 | 0.278 | 0.240
 Complete requests | 100 | 100 | 100
 Failed requests | 0 | 0 | 0 |
 Total transferred, bytes | 205991600 | 205987600 | 205987600
 HTML transferred, bytes | 205963500 | 205963500 | 205963500
-Requests per second [#/sec] (mean) | 107.06 | 498.56 | 416.61
-Time per request [ms] (mean) | 93.406 | 20.058 | 24.003
-Time per request [ms] (mean, across all concurrent requests) | 9.341 | 2.006 | 2.400
-Transfer rate [Kbytes/sec] received | 215364.14 | 1002910.45 | 838050.46
+Requests per second [#/sec] (mean) | 107.06 | 360.20 | 416.61
+Time per request [ms] (mean) | 93.406 | 27.762 | 24.003
+Time per request [ms] (mean, across all concurrent requests) | 9.341 | 2.776 | 2.400
+Transfer rate [Kbytes/sec] received | 215364.14 | 724576.28 | 838050.46
 
 ### Измерение скорости отдачи html-cтраниц:
 
